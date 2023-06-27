@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src="https://github.com/AbhayJohn7/AbhayJohn7/headerimage.png" alt="header"/>
 </div>
 <p align="center"> (Open to Work)</p>
 
