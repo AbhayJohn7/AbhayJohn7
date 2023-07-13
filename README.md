@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AbhayJohn7/AbhayJohn7/main/headerimage.png" alt="header"/>
 </div>
-<p align="center"> (Open to Work)</p>
+<p align="center"> [Open to Work]</p>
 
 <h2 align="center"> 👨‍💻 ABHAY JOHN</h2>
 <p align="center">
