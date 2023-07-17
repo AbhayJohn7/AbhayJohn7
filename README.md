@@ -21,7 +21,7 @@ Seeking opportunities to apply my knowledge and contribute to innovative project
 <hr>
 
 <h2 align="center"> 🔭 Skill Set</h2>
-<p align="center">Html, Css, Python, C, C#, C++, Github, .net, Laravel, Java, JavaScript, Php, Android.</p>
+<p align="center">Html, Css, Python, C, C#, C++, Github, .net, Laravel, Java, JavaScript, Android.</p>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
