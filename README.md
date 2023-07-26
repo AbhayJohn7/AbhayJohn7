@@ -8,7 +8,7 @@
 </div>
 <p align="center"> [Open to Work]</p>
 
-<h2 align="center"> 👨‍💻 ABHAY JOHN</h2>
+<h2 align="center"> 👨‍💻 ABHAY JOHN 👨‍💻</h2>
 <p align="center">
   <samp>Hi there! I'm Abhay John, a dedicated and ambitious computer science student currently pursuing my Masters in Computer Application.
 
